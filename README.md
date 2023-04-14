@@ -1,3 +1,3 @@
 # emart_app
  
-# E-commerce app just like an Amazon.
+# E-commerce app made with Flutter Framework just like an Amazon App.
