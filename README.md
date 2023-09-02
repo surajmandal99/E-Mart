@@ -1,6 +1,6 @@
 # Emart_app
  
-# E-commerce app made with Flutter Framework just like an Amazon App.
+# E-commerce app made with Flutter and Firebase just like an Amazon and Flipkart App 📲💻🔥
 
 
 ![Screenshot_2023-05-18-20-37-14-91_420ce30d2f465243fce2b387e8f8feed](https://github.com/surajmandal99/E-Mart/assets/105273927/2436f4c9-ea17-4bb0-8f20-bb8d068ec012)
